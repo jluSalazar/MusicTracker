@@ -1,0 +1,7 @@
+Álbum: Album1
+Año de Lanzamiento: 2024
+Disquera: JSRecords
+Artistas: Jona
+Canciones:
+	- Ahora (2:30 minutos)
+
